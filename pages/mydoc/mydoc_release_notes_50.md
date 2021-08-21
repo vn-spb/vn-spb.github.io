@@ -1,23 +1,39 @@
 ---
-title: Release notes 5.0
+title: Начало данных
 tags: [getting_started]
-keywords: release notes, announcements, what's new, new features
-last_updated: July 3, 2016
-summary: "Version 5.0 of the Documentation theme for Jekyll changes some fundamental ways the theme works to provide product-specific sidebars, intended to accommodate a site where multiple products are grouped together on the same site rather than generated out as separate outputs."
+keywords: птицы, birds, кормежка
+last_updated: Aug 21, 2021
+summary: "По поводу кормежки определенных видов птиц"
 sidebar: mydoc_sidebar
 permalink: mydoc_release_notes_50.html
 folder: mydoc
 ---
 
-## Unique sidebars for each product
+## Крупные птицы
 
-In previous versions of the theme, I built the theme to generate different outputs for different scenarios based on various filtering attributes that might include product, version, platform, and audience variants.
+### Совиные
 
-However, this model results in siloed outputs and lots of separate file directories to manage. Instead of having 30 separate sites for your content (or however many variants you might have been producing), in this version of the theme I've moved towards a strategy of having one site with multiple products.
+Они не умеют вращать глазами
 
-For each product, you can associate a unique sidebar with each of the product's pages. This allows you to have all your documentation on one site, but with separate navigation that is tailored to a view of that product.
+#### Филин
 
-You can still output to both web and PDF. And if you really need multiple site outputs, you can still do so by using multiple configuration files that trigger different builds. But my conclusion after using the multiple site output model for some years is that it's a bad practice for tech comm.
+#### Сова
+
+Сова когда ест всегда закрывает веки
+
+### Врановые
+
+Одни из самых умных
+
+## Мелкие птицы
+
+### Ласточки
+
+Сделали гнездо
+
+### Трясогуски
+
+Их съели коты
 
 ## Permalinks
 
